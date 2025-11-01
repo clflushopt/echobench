@@ -189,7 +189,7 @@ Throughput (received):
 
 ## Performance Tuning
 
-SEE [**TUNING.md**](TUNNING.md)
+SEE [**TUNING.md**](TUNING.md)
 
 ## F.A.Q
 
