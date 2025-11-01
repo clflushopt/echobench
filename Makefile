@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -g -pthread
+CFLAGS = -Wall -Wextra -g -pthread -O2
 LDFLAGS = -luring -pthread
 
 all: echobench loadgen
